@@ -13,24 +13,29 @@ PHP 7.0
 Bootstrap 4
 /PHPMailer
 
-### Configuração
+<details>
+<summary>Seção 1: Introdução</summary>
+<br>
+O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o php em localhost
+<br><br>
+<pre>
+</pre>
+</details>
 
-Para configurar o formulário é muito simples: 
+---
 
-1- Acesse a pasta forms/easy_budget/inc
+<details>
+<summary>Seção 2: Conceitos básicos de PHP</summary>
+<br>
+<br><br>
+<pre>
+1-Case Sensitive
+2-Instrucao de código
+3-Espaço em Branco
+4-Comentários
+5-Exercício
+6-Palavras Reservadas
 
-Na pasta inc você vai encontrar todos os arquivos de configuração e a pasta das classes. 
+</pre>
+</details>
 
-2- Configurando o recebimento de email.
-
-inc/config.php  
-
-- Primeiro na linha 14 informe o email que vai receber o contato do usuário
-
-- Logo abaixo você verá as seguintes variáveis: 
-
- $contactTemplate = "Selecione o tema de acordo com o arquivo css"
-  ***
- $autoResponder = "Se for ultilizar o autoresponde deixe true, caso contrário, coloque false"
-  ***
- $defaultSubject = "Este será o assunto que vai aparecer pra você (admin) quando o cliente enviar os dados no formulário"
