@@ -10,7 +10,7 @@ Bootstrap 4
 / PHPMailer
 
 <details>
-<summary>Configuração</summary>
+<summary>Manual de Configuração</summary>
 <br>
 Sumário
 <br><br>
