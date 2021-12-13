@@ -1,0 +1,213 @@
+body {
+
+		    font-family: "Nunito Sans",sans-serif;
+		    color: #D2D2D2;
+		    font-size: 13px;
+		    background-color : #1A1B37;
+		}
+		 #contactForm
+		 {
+		 	margin: 70px auto;
+		 	max-width: 585px;
+	    		min-width: 300px;
+		 }
+		textarea, input, select {
+			padding: 4px; 
+			background-color: rgb(37, 37, 71, 1);
+			font-family: "Lucida Grande","Lucida Sans Unicode",Arial,sans-serif;
+		    	color: #FFF;
+		    	font-size: 13px;
+			border: 1px solid rgba(27, 27, 56, 1);
+		}
+		textarea:focus, input:focus, select:focus {
+			background-color : #1B1B38;
+		    	border: 1px solid rgba(27, 27, 56, 1);
+		    	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(27, 27, 56, 0.6);
+		}
+		label{
+		    
+		    display: inline-block;
+		    width: 150px;
+		    float: left;
+		    margin: 7px 0px;
+		}
+		div {
+			margin-bottom: 10px;
+		
+		}
+		#submit {
+			background-color: rgba(91, 79, 150, 1);
+			border: 1px solid rgba(27, 27, 56, 0.6);
+
+			color: white;
+			padding: 15px 36px;
+			justify-content: center;
+			
+		}
+		#submit:hover {
+			background-color: #1A1B37;
+			color: rgba(255, 255, 255, 1);
+		}
+		
+		.line {
+			border-top: 1px solid rgba(91, 79, 150, 1);
+			max-width: 800px;
+			margin: 17px 0px;
+		}
+		
+		
+		.header{
+			color: #FFF;
+			background-color: rgba(50, 50, 89, 1);
+			padding: 12px 20px;
+			margin: 0;
+			border-top-left-radius: 5px;
+			border-top-right-radius: 5px;
+			
+			box-shadow: 0px -1px 3px rgba(50, 50, 89, 0.26);
+			border-top: 5px solid #323259;
+			border-bottom: 2px solid #323259;
+		}
+		.body {
+			padding: 18px 55px;
+			border-top: 0px;
+			background-color: rgba(50, 50, 89, 1);
+			box-shadow: 0px -1px 3px rgb(91 79 150 / 1);
+			border-bottom: 5px solid #323259;
+		}
+		#captchaImg {
+			margin: 3px auto -7px;
+		}
+		
+		#successMessage {
+			border: 1px solid #85C04D;
+			background: url('../img/success_check.png') no-repeat scroll 7px 50%;
+			background-color: #C7FFC7;
+			background-size: 15px 15px;
+			color: black;
+			padding: 4px 30px;
+			font-size: 12px;
+			margin-bottom: 12px;
+			border-radius: 4px;
+			text-shadow: 1px 1px 0px #FDE6E4;
+			
+		}
+		.errorText {
+			color: black;
+			font-size: 12px;
+			margin-left: 150px;
+			margin-top: 4px;
+			margin-bottom: 12px;
+			padding: 3px 29px;
+			max-width: 208px;
+			background: url('../img/error.gif') no-repeat scroll 7px 50% / 15px 15px rgba(248, 198, 198, 1);
+			border: 1px solid rgba(233, 132, 132, 1);
+			border-radius: 4px;
+			text-shadow: 1px 1px 0px #FDE6E4;
+		}
+		.errorAst {
+			color: red;
+			float: left;
+			position: absolute;
+			margin-left: -11px;
+		}
+		#genCaptcha {
+			margin-top: 10px;
+		}
+		.desc {
+			color: #FFF;
+			line-height: 23px;
+			font-size: 15px;
+			box-shadow: 0px -1px 3px rgb(27,27,56,0.27);
+			padding: 12px;
+			background: rgb(27, 27, 56, 0.27);
+		}
+		.field {
+			display: inline-block;
+			width: 100%;
+		}
+		.res {
+			width: 260px;
+		}
+		input[type="checkbox"], input[type="radio"]{		
+			margin-top: 12px;
+			margin-right: 5px;
+		}
+		
+		.fileUploadDesc {
+			font-size: 11px;
+			font-style: italic;
+			margin-left: 150px;
+		}
+		
+		@media only screen and (min-width: 0px) and (max-width: 800px) {
+			.res {
+				width: 100%;
+			}
+			
+			.fileUploadDesc {
+				font-size: 11px;
+				font-style: italic;
+				margin-left: 0px !important;
+			}
+			
+			#contactForm {
+			 	width: 98% !important;
+				max-width: none !important;
+			}
+			
+			.errorText {
+				margin-left: 0px !important;
+			}
+		}
+
+/* ------------------------------------------------------------------- 
+ * ## copyright
+ * ------------------------------------------------------------------- */
+.ss-copyright {
+	margin-top: 4.8rem;
+	text-align: center;
+  }
+  
+  .ss-copyright span {
+	font-size: 17px;
+	line-height: 3.2rem;
+	display: inline-block;
+  }
+  
+  .ss-copyright span::after {
+	content: "·";
+	display: inline-block;
+	padding: 0 1rem 0 1.2rem;
+	color: white;
+  }
+  
+  .ss-copyright span:last-child::after {
+	display: none;
+  }
+  
+  /* ------------------------------------------------------------------- 
+ * Barra de rolagem:
+ * scrollbar
+ * ------------------------------------------------------------------- */
+
+::-webkit-scrollbar-track {
+	background-color: #fff;
+  }
+  /* Fundo que corre */
+  
+  ::-webkit-scrollbar {
+	width: 11px;
+	background: #F4F4F4;
+  }
+  
+  /* Linha que desce */
+  
+  ::-webkit-scrollbar-thumb {
+	background: #323259;
+	border-radius: 2px;
+  }
+  /* Linha que desce*/
+  
+  /* Barra de Rolagem */
+  
