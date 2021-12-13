@@ -11,7 +11,7 @@
 	
 	/* Coloque seu email aqui. Ex: seusiteemail@domain.com */
 	
-	$yourEmail = 'contato@brutecode.com.br'; 
+	$yourEmail = 'exemplo.com.br'; 
 	
 	$contactTemplate = 'premium';
 	
