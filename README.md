@@ -14,9 +14,9 @@ Bootstrap 4
 /PHPMailer
 
 <details>
-<summary>Seção 1: Introdução</summary>
+<summary>Configuração</summary>
 <br>
-O que é o PHP, O que ele faz, Configuramos o editor de código e instalamos o php em localhost
+Para configurar o formulário é muito simples: 
 <br><br>
 <pre>
 </pre>
