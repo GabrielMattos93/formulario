@@ -27,6 +27,8 @@ inc/config.php
 
 - Primeiro na linha 14 informe o email que vai receber o contato do usuário
 
-ex:comercial@email.com
+- Logo abaixo você verá as seguintes variáveis: 
 
-- 
+ $contactTemplate = "Selecione o tema de acordo com o arquivo css"
+ $autoResponder = "Se for ultilizar o autoresponde deixe true, caso contrário, coloque false"
+ $defaultSubject = "Este será o assunto que vai aparecer pra você (admin) quando o cliente enviar os dados no formulário"
