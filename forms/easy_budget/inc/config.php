@@ -56,10 +56,10 @@
 	$smtpEnable = true;
 	
 	/* If you enable the SMTP authentication, you must configure the data below */
-	$smtpServer = 'mail.brutecode.com.br';   
+	$smtpServer = 'mail.exemple.com';   
 	$smtpPort = 465;                    
-	$smtpUsername = 'contato@brutecode.com.br'; 
-	$smtpPassword = 'gabriel1993';  
+	$smtpUsername = 'contato@exemplo.com'; 
+	$smtpPassword = '123456';  
 	$smtpEncryption = 'ssl';               
 	/* End of SMTP Authentication configuration */
 	
