@@ -19,23 +19,12 @@ Bootstrap 4
 Para configurar o formulário é muito simples: 
 <br><br>
 <pre>
-</pre>
-</details>
-
----
-
-<details>
-<summary>Seção 2: Conceitos básicos de PHP</summary>
-<br>
-<br><br>
-<pre>
-1-Case Sensitive
-2-Instrucao de código
-3-Espaço em Branco
-4-Comentários
-5-Exercício
+1-Configuração do recebimento de email
+2-Alteração do Template
+3-AutoResponder
+4-Assunto da Mensagem
+5-Configuração de Redirecionamento
 6-Palavras Reservadas
-
 </pre>
 </details>
 
