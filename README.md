@@ -16,7 +16,7 @@ Bootstrap 4
 <details>
 <summary>Configuração</summary>
 <br>
-Para configurar o formulário é muito simples: 
+Sumário
 <br><br>
 <pre>
 1-Configuração do recebimento de email
