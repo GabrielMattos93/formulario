@@ -67,9 +67,9 @@
 	/* =====  Our Easy PHP Contact Form class  ===== */
 	$easyForm = new EasyContact;
 	 
-	/* =====  Customize your form below. See the documentation included  ===== */
-	/* =====  Add many fields as you want  ===== */
-	/* =====  They are displayed according to their arrangement here  ===== */
+	/* =====  Personalize o seu formulário abaixo. Veja a documentação no github  ===== */
+	/* =====  Adicione quantos campos desejar  ===== */
+	/* =====  Eles são exibidos de acordo com sua disposição aqui  ===== */
 	
 	$easyForm->createTextBox('fullname', 'Nome Completo', false, 70);
 	$easyForm->createTextBox('businessname', 'Nome da Empresa', false, 70);
