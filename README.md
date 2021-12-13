@@ -13,4 +13,9 @@ PHP 7.0
 Bootstrap 4
 /PHPMailer
 
+### Configuração
+
+Para usar o formulário é muito simples: 
+
+1- Aces
  
