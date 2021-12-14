@@ -10,9 +10,9 @@ Bootstrap 4
 / PHPMailer
 
 <details>
-<summary>Manual de Configuração</summary>
+<summary>Documentação</summary>
 <br>
-Sumário
+Configuração do Projeto
 <br><br>
 <pre>
 1-Configuração do recebimento de email
