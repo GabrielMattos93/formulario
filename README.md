@@ -38,13 +38,16 @@ Sumário
 <br>
 <br><br>
 <pre>
- Acesse a pasta forms/easy_budget/inc/config.php
+Acesse a pasta forms/easy_budget/inc/config.php
 Neste arquivo encontrar-se toda a parte de configuração do projeto. 
 
 ***
 1- $yourEmail = 'informe seu email'
 2- $contactTemplate = 'Escolha o template do formulário de acordo com o arquivo css'
-3-
+3- $autoResponder = 'Se for usar o autoresponder, deixe true, caso contrário, coloque false'
+4- $defaultSubject = 'Coloque o assunto do formulário, ex: Solicitação de Proposta'
+5-$enableRedirection = Caso queira redirecionar seu usuário para uma determinada páginas após o preenchimento das informações, coloque true, caso contrário, deixe false
+6-
 
 
 
