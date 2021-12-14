@@ -20,11 +20,7 @@
 
    <!-- Google Tag Manager 
 ================================================== -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WVXKPVC');</script>
+      INSIRA AQUI SEU CÓDIGO 
 <!-- End Google Tag Manager -->
   <?php echo '<link href="forms/easy_budget/style/' . $contactTemplate . '.css" rel="stylesheet" type="text/css" /> '; ?>
   
@@ -39,13 +35,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!-- Google Tag Manager (noscript)
     ================================================== -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVXKPVC"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    INSIRA AQUI SEU CÓDIGO 
 
 <div class="col-full ss-copyright">
            <span>&copy;  <script>
               document.write(new Date().getFullYear());
-            </script> Brutecode | Desenvolvimento Web❤️</span>
+            </scr> Brutecode | Desenvolvimento Web❤️</span>
         </div>
 
         </div>

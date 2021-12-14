@@ -140,6 +140,17 @@ Esse é o arquivo de configuração e verificação dos comandos do formulário.
 
 </pre>
 </details>
+---
+
+<details>
+<summary>Arquivos orcamento.php</summary>
+<br>
+<br><br>
+<pre>
+Neste arquivo você pode configurar os Metas (SEO) do formulário e incluir os arquivos de estilização e scripts como (Pixel do facebook, google tag manager e outros)
+
+</pre>
+</details> 
 
 ---
 
