@@ -53,8 +53,6 @@ Neste arquivo encontrar-se toda a parte de configuração do projeto.
 ***
 Configurando mensagens de erro
 
-***
-
 Para configurar e personalizar mensagem de erro, altere as informações dessas variáveis
 
 	$emptyField
