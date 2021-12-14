@@ -3,7 +3,6 @@
 /*////////////////////////
 //	Author: Anthony Kwong
 //	Created: 7/10/14
-//	website: codeadik.com
 ///////////////////////*/
 
 	session_start();

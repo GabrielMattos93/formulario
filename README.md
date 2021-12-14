@@ -114,3 +114,41 @@ Caso você habilite o autoresponder, faça todas as configurações de resposta 
 
 </pre>
 </details>
+
+---
+
+<details>
+<summary>Arquivo captcha.php</summary>
+<br>
+<br><br>
+<pre>
+
+Caso você habilite o captcha do formulário, todas as configurações devem ser realizadas nesse arquivo.
+
+</pre>
+</details>
+
+---
+
+<details>
+<summary>Arquivo process.php</summary>
+<br>
+<br><br>
+<pre>
+
+Esse é o arquivo de configuração e verificação dos comandos do formulário.
+
+</pre>
+</details>
+
+---
+
+<details>
+<summary>Arquivos de Estilo</summary>
+<br>
+<br><br>
+<pre>
+
+Os arquivos de estilo estão na pasta style, cada arquivo css representa um template diferente para o formulário, e você pode modificar e personalizar como quiser, neste momento ele está configurado com o template premium, porém você pode alterar para qualquer outro que preferir e também criar os seus proprios templates personalizados.
+</pre>
+</details> 
