@@ -41,6 +41,7 @@ Sumário
  Acesse a pasta forms/easy_budget/inc/config.php
 Neste arquivo encontrar-se toda a parte de configuração do projeto. 
 
+***
 1- $yourEmail = 'informe seu email'
 2- $contactTemplate = 'Escolha o template do formulário de acordo com o arquivo css'
 3-
