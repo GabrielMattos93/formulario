@@ -84,3 +84,33 @@ Você pode adicionar quantos campos desejar.
 </pre>
 </details>
 
+---
+
+<details>
+<summary>Arquivo form.php</summary>
+<br>
+<br><br>
+<pre>
+
+No arquivo form.php, você configura o Layout do formulário
+
+</pre>
+</details>
+
+---
+
+<details>
+<summary>Arquivo autoresponder.php</summary>
+<br>
+<br><br>
+<pre>
+
+Caso você habilite o autoresponder, faça todas as configurações de resposta por aqui.
+
+1- $emailResponder = 'Coloque o email que vai enviar as respostas automáticas'
+2- Caso esteja ultilizando SMTP, configure suas informações a partir da linha 9
+3- $respondSubject = 'Assunto da mensagem para o usuário que receber o email de resposta'
+4- $respondMessage = 'A mensagem que você quer enviar para o usuário após ele enviar as informações no formulário'
+
+</pre>
+</details>

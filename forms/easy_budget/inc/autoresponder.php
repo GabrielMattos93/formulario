@@ -23,9 +23,6 @@ $respondSubject = 'Obrigado! Recebemos Sua Solicitação.';
 $respondMessage = '
 Opa, Tudo bem?
 
-Eu sou o Gabriel Mattos, Desenvolvedor Web na Brutecode e gostaria de agradecer por solicitar uma proposta em nosso site.
-Nós criamos a Brutecode | Desenvolvimento Web com a missão de fornecer soluções web de qualidade e um atendimento de excelência que seja referência no mercado.
-
 Adoraria saber o que você está achando do atendimento realizado até aqui e se há algo que possamos melhorar.
 Se tiver alguma dúvida, por favor, fale com a gente. Ficarei feliz em ajudar!
 
