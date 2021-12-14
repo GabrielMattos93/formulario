@@ -64,10 +64,22 @@ Para configurar e personalizar mensagem de erro, altere as informações dessas 
 
 Autenticação SMTP
 
-Para configurar o envioieo re 
+Para configurar o smtp, na variável ($smtpEnable = true) deixe true, caso não ultilize o smtp coloque false. 
 
+	$smtpServer = 'mail.exemple.com'   
+	$smtpPort = 'Número da porta'                    
+	$smtpUsername = 'Nome de usuário'; 
+	$smtpPassword = 'Sua senha';  
+	$smtpEncryption = 'ssl';
 
+Configuração da Informações do Formulário
 
+Classe que instânciamos: 
+
+$easyForm = new EasyContact;
+
+A configuração dos labels do formulário, inicia na linha 74.
+Você pode adicionar quantos campos desejar.
 
 </pre>
 </details>

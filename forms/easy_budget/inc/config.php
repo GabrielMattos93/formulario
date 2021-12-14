@@ -64,7 +64,7 @@
 	/* End of SMTP Authentication configuration */
 	
 	
-	/* =====  Our Easy PHP Contact Form class  ===== */
+	/* =====  Nossa classe Easy PHP Contact Form ===== */
 	$easyForm = new EasyContact;
 	 
 	/* =====  Personalize o seu formulário abaixo. Veja a documentação no github  ===== */
