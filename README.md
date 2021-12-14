@@ -62,6 +62,9 @@ Para configurar e personalizar mensagem de erro, altere as informações dessas 
 	$maxAllowedFileSize 
 	$invalidPhoneNumber 
 
+Autenticação SMTP
+
+Para configurar o envioieo re 
 
 
 
