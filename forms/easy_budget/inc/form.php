@@ -23,9 +23,9 @@
 		echo '
 				
 				<br/>
-				<center>
+				<div class="text-center">
 				<input name="submit" type="submit" id="submit" value="Enviar Solicitação" />
-				</center>
+				</div>
 				<br/>
 				<br/>
 			</form>
